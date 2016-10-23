@@ -19,7 +19,7 @@ class App extends Component {
   render(){
     return (
       <TextInnerstyle
-        style={{font-size:18, color:'blue'}}
+        style={{fontSize:18, color:'blue'}}
         phrase={"random"}
         innerstyle={{color:'red'}}/>
         This is some random text
@@ -33,6 +33,6 @@ class App extends Component {
 
 | Prop  | Default  | Type | Description |
 | :------------ |:---------------:| :---------------:| :-----|
-| style | - | `object` | Specify the style of the TextInnerstyle, eg. color, font-size...  |
+| style | - | `object` | Specify the style of the TextInnerstyle, eg. color, fontSize...  |
 | phrase | - | `string` | Specify the word or phrase you want to customize within your text.  |
-| innerstyle | - | `object` | Specify the style of the word or phrase, eg. color, font-size... |
+| innerstyle | - | `object` | Specify the style of the word or phrase, eg. color, fontSize... |
