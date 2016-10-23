@@ -35,4 +35,4 @@ class App extends Component {
 | :------------ |:---------------:| :---------------:| :-----|
 | style | - | `object` | Specify the style of the TextInnerstyle, eg. color, font-size...  |
 | phrase | - | `string` | Specify the word or phrase you want to customize within your text.  |
-| innerstyle | `object` | Specify the style of the word or phrase, eg. color, font-size... |
+| innerstyle | - | `object` | Specify the style of the word or phrase, eg. color, font-size... |
