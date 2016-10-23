@@ -1,6 +1,6 @@
 {
   "name": "react-native-text-innerstyle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A text component for React Native that allows for custom styling of a word or phrase within it's text",
   "main": "textInnerstyle.js",
   "scripts": {
