@@ -21,9 +21,9 @@ class App extends Component {
       <TextInnerstyle
         style={{fontSize:18, color:'blue'}}
         phrase={"random"}
-        innerstyle={{color:'red'}}/>
+        innerstyle={{color:'red'}}>
         This is some random text
-       </TextInnerstyle>
+      </TextInnerstyle>
     )
   }
 }
