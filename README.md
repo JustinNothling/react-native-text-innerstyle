@@ -1,2 +1,2 @@
 # react-native-text-innerstyle
-A text component for React Native  the style of words or phrases within  
+A text component for React Native that allows for custom styling of a word or phrase within it's text
